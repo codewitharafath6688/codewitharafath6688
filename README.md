@@ -8,10 +8,8 @@ user experiences, and contribute
 to the success of a dynamic
 tech-driven organization.
 Committed to continuous
-
 learning and delivering high-
 quality results in a collaborative
-
 and fast-paced environment.</h3>
 
 <p align="left"> <a href="https://twitter.com/alpha_se69967" target="blank"><img src="https://img.shields.io/twitter/follow/alpha_se69967?logo=twitter&style=for-the-badge" alt="alpha_se69967" /></a> </p>
