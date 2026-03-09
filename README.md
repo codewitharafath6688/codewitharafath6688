@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arafath</h1>
-<h3 align="justify">A passionate frontend developer from Bangladesh.Seeking to leverage my skills in
+<h3>A passionate frontend developer from Bangladesh.Seeking to leverage my skills in
 full-stack web development,
 problem-solving, and exceptional
 customer service to create
