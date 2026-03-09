@@ -20,7 +20,7 @@ and fast-paced environment.</p>
 
 - 👨‍💻 My portfolio [https://my-portfolio-beta-roan-17.vercel.app/](https://my-portfolio-beta-roan-17.vercel.app/)
 
-- 📫 How to reach me **arafathsiddique668@gmail.com**
+- 📫 How to reach me **arafathvai235@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FlhWK382BOOxwXmhUMgAvJP6O6mu-WqP/view](https://drive.google.com/file/d/1FlhWK382BOOxwXmhUMgAvJP6O6mu-WqP/view)
 
