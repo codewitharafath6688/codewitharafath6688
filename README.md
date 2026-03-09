@@ -1,7 +1,6 @@
 <p align="center">
   <img src="PixelBin-AI-Editor-1773026392108.png" width="100%" />
 </p><h1 align="center">Hi 👋, I'm Arafath</h1>
-# Hi there, I'm Arafat! 👋 
 
 ### 🚀 Aspiring Frontend Developer | React Enthusiast 
 I am a passionate developer focused on building clean, responsive, and user-centric web applications. I love turning complex problems into simple, beautiful interface designs.
