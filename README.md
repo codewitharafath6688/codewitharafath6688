@@ -20,12 +20,6 @@ I am a passionate developer focused on building clean, responsive, and user-cent
 
 ---
 
-### 📊 GitHub Stats
-![Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewitharafath6688&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharafath6688&layout=compact&theme=radical)
-
----
-
 ### 🔭 What I'm working on:
 - 🌐 Polishing my **React.js** portfolio projects.
 - 📱 Developing mobile-first responsive web designs.
