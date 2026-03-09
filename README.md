@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Arafath Siddique</h1>
-<h3 align="center">MERN Stack Developer</h3>
-
 <p align="center">
   <img src="PixelBin-AI-Editor-1773026392108.png" width="100%" />
 </p><h1 align="center">Hi 👋, I'm Arafath</h1>
