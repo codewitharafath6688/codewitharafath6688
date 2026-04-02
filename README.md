@@ -25,8 +25,8 @@ I am a passionate developer focused on building clean, responsive, and user-cent
 - 📚 Learning **Next.js** and **Backend Integration**.
 
 ### 📫 How to reach me:
-- 💼 LinkedIn: [Your-LinkedIn-Link-Here]
-- 📧 Email: [Your-Email-Here]
+- 💼 LinkedIn: https://www.linkedin.com/in/arafath-siddique/
+- 📧 Email: arafathsiddique668@gmail.com
 
 ---
 <p align="center">
